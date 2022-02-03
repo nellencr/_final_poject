@@ -1,6 +1,6 @@
 # Final project - Marketplace
 
-Deployed version url [here](http://nellencr.github.io/_final_project)
+Deployed version url [here](https://elastic-thompson-e38988.netlify.app/)
 
 **How to run this project locally:**
 **Prerequisites**
